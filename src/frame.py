@@ -17,7 +17,6 @@ class Frame(nn.Module):
         self.backbone = kwargs.get("backbone", None)
         self.sdf_head = kwargs.get("sdf_head", None)
         self.grasp_head = kwargs.get("grasp_head", None)
-        self.placing_head = kwargs.get("placing_head", None)
         self.hanging_head = kwargs.get("hanging_head", None)
                 
     def build_backbone(self, **C):
