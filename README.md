@@ -12,10 +12,10 @@ This is a pytorch implimentation of the paper: "Deep Visual Constraints: Neural 
 
 
 ## Instruction
-1. Download the [pretrained network](https://drive.google.com/drive/folders/1RcjmbazIrejv6QT8cSJ9V62KSbA2ip5k?usp=sharing) files into the folder './network'
-2. Download the [dataset](https://drive.google.com/file/d/12Ycx9oJkd8lape1SuQ2k0w75yp0IQ1pF/view?usp=sharing) and extract it to the folder './data' 
+1. Download [the pretrained network](https://drive.google.com/drive/folders/1RcjmbazIrejv6QT8cSJ9V62KSbA2ip5k?usp=sharing) files into the folder './network'
+2. Download [the dataset](https://drive.google.com/file/d/12Ycx9oJkd8lape1SuQ2k0w75yp0IQ1pF/view?usp=sharing) and extract it to the folder './data' 
 3. Run 'visualize_*.ipynb' to visualize data, learend SDFs (& mesh reconstruction), PCAs on learned features, or tasks (optimized grasp/hang poses)
-4. Run 'train_*.ipynb' to train the whole framework
+4. Run 'train_PIFO.ipynb' to train the whole framework
 
 ## Citation
 ```
