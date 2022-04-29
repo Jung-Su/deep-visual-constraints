@@ -9,6 +9,12 @@ This is a pytorch implimentation of the paper: "Deep Visual Constraints: Neural 
 - Torchvision
 - [H5py](https://docs.h5py.org/en/stable/quick.html)
 - [Trimesh](https://trimsh.org/trimesh.html)
+- Scipy
+- Pyglet
+- Matplotlib
+- Scikit-image
+- Tqdm
+- Tensorboard
 
 
 ## Instruction
