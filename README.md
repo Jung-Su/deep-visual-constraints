@@ -11,6 +11,10 @@ This is a pytorch implimentation of the paper: "Deep Visual Constraints: Neural 
 - [Trimesh](https://trimsh.org/trimesh.html)
 - Scipy
 - Pyglet
+- Matplotlib
+- Scikit-image
+- Tqdm
+- Tensorboard
 
 
 ## Instruction
