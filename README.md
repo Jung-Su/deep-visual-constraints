@@ -28,7 +28,7 @@ This is a pytorch implimentation of the paper: "Deep Visual Constraints: Neural 
 @article{ha2022dvc,
   title={Deep Visual Constraints: Neural Implicit Models for Manipulation Planning from Visual Input},
   author={Ha, Jung-Su and Driess, Danny and Toussaint, Marc},
-  journal={arXiv preprint arXiv:2112.04812},
+  journal={IEEE Robotics and Automation Letters, 2022},
   year={2022}
 }
 ```
